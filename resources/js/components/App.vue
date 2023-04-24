@@ -19,6 +19,7 @@
                 </div>
             </div>
         </div>
+    </div>
 </template>
 <script>
 import vueFilePond, { setOptions } from 'vue-filepond';
